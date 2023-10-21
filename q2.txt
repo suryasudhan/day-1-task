@@ -1,0 +1,5 @@
+Write a blog about objects and its internal representation in Javascript
+
+A object in JavaScript is a collection of key-value pairs, where each key is a string and each value can be any type of data,
+ such as a number, a string, a boolean, an array, another object, or even a function. 
+ A function that is stored as a value in an object is called a method, and it can perform some actions related to the object

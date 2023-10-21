@@ -1,0 +1,16 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP is hyper texr transport protocal its working on sending requst to the data base and the data base responce to the user.
+
+1.HTTP1 
+ *HTTP1 sending requst to the data base and the data base responce to the user in single way 
+ *HTTP1 is transfer all the requsts & responce in plain text message form
+ *HTTP1 is works on textual formate
+ *HTTP/1.1 that blocks all the requests behind it until it doesn’t get its all resources
+
+2.HTTP2:
+* HTTP2 is works on binary formate
+* HTTP2 is fully multiplexed so one tcp connection is required for multiple requests
+* HTTP2 can use one connection for parallelism 
+* HTTP2 is faster and more relibal than HTTP1
+* HTTP2 is avoiding network delay by usning multiplexed 
